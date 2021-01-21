@@ -1,0 +1,4 @@
+Application name	recommender_system
+API key	001a1fa6b00ae7c4547c3bb84a024bff
+Shared secret	e321ca6e422ba3612824b8a21dbbccec
+Registered to	uman230

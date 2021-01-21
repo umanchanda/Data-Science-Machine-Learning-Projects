@@ -1,0 +1,4 @@
+nltk
+matplotlib
+numpy
+bs4
